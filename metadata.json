@@ -1,0 +1,8 @@
+{
+  "name": "Neon Bot Surfer - 3D Cyber Runner",
+  "description": "An endless 3D subway surfer style runner featuring a cute cyber robot, high-speed neon tracks, smooth platforming, hoverboards, power-ups, and synthwave aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
